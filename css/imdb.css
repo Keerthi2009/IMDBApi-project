@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #eee;
+}
+#template .card{
+
+    width: 25%;
+    margin: 50px 0px;
+
+}
+#template {
+    margin: 33px 0;
+ display: flex !important;
+ flex-wrap: wrap !important;
+ justify-content: space-between !important;   
+}
